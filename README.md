@@ -2,7 +2,7 @@
 This repository presents a Hand Gesture Recognition System designed to classify static and sequential hand gestures into the 26 English alphabet letters (A-Z) using Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN).
 Hand gesture recognition is of great significance in artificial intelligence that bounds human computing interface and computer vision. This project put in place a well designed hand gesture recognition system through the use of CNN and RNN. Static and sequential gestures are to be classified under the twenty-six alphabets of the English language as envisaged by the model. Data collection, data preprocessing, and the model training, all were designed and implemented with high attention to the quality. The final system obtained 100 percent accuracy in the desired validation set and it is a real time program. Further work will introduce multilingual gestures and make adjustments for better applicability in a wide variety of settings.
 
-Introduction and Background
+**Introduction and Background**
 Hand gesture recognition is an emerging field of artificial intelligence, particularly within computer vision. It facilitates seamless human-computer interaction, allowing intuitive interfaces without traditional input devices. Our project focuses on recognizing gestures representing the English alphabet, leveraging deep learning techniques to classify both static and sequential gestures.
 ![image](https://github.com/user-attachments/assets/7a66808a-1b0c-4b09-bad4-8ba0bed7db5f)
 
