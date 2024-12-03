@@ -70,3 +70,12 @@ o	RNN: LSTM layers capture temporal patterns in sequences.
 **6 Discussion and Conclusions**
 Our project successfully implemented a robust hand gesture recognition system. The model demonstrated excellent performance on the validation set and in real-time testing. Future improvements include expanding the dataset to support multilingual gestures, optimizing for mobile deployment, and addressing complex lighting scenarios.
 
+**Results:**
+
+![image](https://github.com/user-attachments/assets/608dc7cf-7991-445a-baad-f4a02082995e)
+![image](https://github.com/user-attachments/assets/7881615f-455e-49bc-bb2a-4594a83c06a2)
+![image](https://github.com/user-attachments/assets/3abe4ce6-68d0-448f-86e8-7a400c779743)
+![image](https://github.com/user-attachments/assets/9be0ea0a-49de-40f0-a269-f7c17a9041d4)
+![image](https://github.com/user-attachments/assets/3994504c-075e-4aa0-8ffd-61106bbe463e)
+![image](https://github.com/user-attachments/assets/85015cb7-a5a5-4593-a637-84a6fa855eb4)
+
