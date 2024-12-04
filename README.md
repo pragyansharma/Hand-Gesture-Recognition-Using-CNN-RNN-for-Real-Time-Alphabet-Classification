@@ -74,3 +74,29 @@ Our project successfully implemented a robust hand gesture recognition system. T
 ![image](https://github.com/user-attachments/assets/af86ff1f-f1aa-43cc-9a99-481b42e1b670)
 
 
+**How to Use**
+Prerequisites
+**1 Create a Data Folder:**
+
+Inside the project directory, create a folder named Data.
+Organize subfolders for each gesture class (e.g., Data/A, Data/B, ..., Data/Z).
+**Capture Gesture Data:**
+
+Use the provided data_collection.py script to capture hand gestures for each class.
+Setup Instructions
+
+**Clone the Repository:**
+git clone https://github.com/your-username/hand-gesture-recognition.git
+cd hand-gesture-recognition
+
+**Install Dependencies:**
+pip install -r requirements.txt
+
+**Collect Gesture Data**
+python data_collection.py
+
+**Train the Model :**
+python train_model.py
+
+Run Real-Time Gesture Recognition:
+python real_time_gesture_recognition.py
