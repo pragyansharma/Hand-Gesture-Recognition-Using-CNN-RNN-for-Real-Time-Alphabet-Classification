@@ -100,3 +100,5 @@ python train_model.py
 
 Run Real-Time Gesture Recognition:
 python real_time_gesture_recognition.py
+
+Installing All Dependencies
